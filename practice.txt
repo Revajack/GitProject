@@ -1,8 +1,6 @@
 Hi this is practice file .
 It is created to rework with git and github application.
 changes made for to check #git restore command.
-<<<<<<< HEAD
 Changes made from Test Branch. 
-=======
 Changes made from Dev branch. 
->>>>>>> 9e12e2a (Commit from Dev Branch)
+Successfully push to GitHub and making changes to pull these changes from GitHub to git .
